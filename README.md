@@ -44,13 +44,13 @@
 
 
 **Embedded**
-- Build a Modern Computer from First Principles: From Nand to Tetris | [Course](https://www.coursera.org/learn/build-a-computer/home/welcome) - [Repository](https://github.com/siezeg/coursera-nand-2-tetris)
+- [Build a Modern Computer from First Principles: From Nand to Tetris](https://github.com/siezeg/coursera-nand-2-tetris)
 - [Advanced Embedded Linux Development Specialization](https://www.coursera.org/specializations/advanced-embedded-linux-development)
 - [C programming with Linux Specialization](https://www.coursera.org/specializations/deep-learning)
 - [Software Architecture](https://www.coursera.org/learn/software-architecture/home/info)
 
 **RF**
-- RF and millimeter-Wave Circuit Design | [Course](https://www.coursera.org/learn/rf-mmwave-circuit-design/home/info) - [Repository](https://github.com/siezeg/coursera-wireless-technology)
+- [RF and millimeter-Wave Circuit Design](https://github.com/siezeg/coursera-wireless-technology)
 
 **AI**
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
