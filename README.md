@@ -59,5 +59,5 @@
 - [Node de Cero a Experto](https://www.udemy.com/course/node-de-cero-a-experto/)  
 
 ### 📊 Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=siezeg&show_icons=true&locale=en&theme=swift" alt="siezeg" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siezeg&show_icons=true&locale=en&layout=compact&theme=swift" alt="siezeg" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ledzeg&show_icons=true&locale=en&theme=swift" alt="ledzeg" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ledzeg&show_icons=true&locale=en&layout=compact&theme=swift" alt="ledzeg" /></p>
