@@ -3,6 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=55&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=120&lines=%60%60'-.%2C_%2C.-'%60%60'-.%2C_%2C.%3D'%60%60'-.%2C_%2C.-'%60%60'-.%2C_%2C.%3D'%60%60+STAY+CURIOUS!+%60%60'-.%2C_%2C.-'%60%60'-.%2C_%2C.%3D'%60%60'-.%2C_%2C.-'%60%60'-.%2C_%2C.%3D'%60%60;o+1+o+o+1+o+1+1+o+o+1+o+1+o+o+1+%3C+STAY+HACK!+%3E+o+1+o+o+1+o+1+1+o+o+1+o+1+o+o+1" alt="Typing SVG" /></a>
 </p>
 
+#### ⚠️ Currently I'm building my portfolio here in Github, so I apologize if any repository is empty or incomplete.
+
 <!--
 ### Where I am:
 **Contact:**
